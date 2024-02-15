@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sfr_defs.h": "c",
+        "delay_basic.h": "c"
+    }
+}
